@@ -1,0 +1,23 @@
+* { font-size:114%; }
+textarea {resize:none}
+
+body { background-color:rgb(240, 180, 218); }
+
+h1 {
+      background-color:black;
+      color:white;
+      width:50%;
+      border-radius:30px;
+}
+
+.nav a {
+      background-color:black;
+      color:white;
+      width:50%;
+      margin: 10%;
+}
+
+.nav {background-color: black;}
+
+.nav {border-radius: 50px;}
+

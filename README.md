@@ -1,4 +1,3 @@
-# Feedback-webapp-java-jsp
 # Install tomcat server preferred version 9 and MySql for the backend database management. 
 # Disclamer: Set your Screen zoom size of your browser to 80% for better view of the website.
 # view output demo: 
